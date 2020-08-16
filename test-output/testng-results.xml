@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [Default suite" duration-ms="261037" started-at="2020-08-10T11:04:47Z" finished-at="2020-08-10T11:09:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="261037" started-at="2020-08-10T11:04:47Z" finished-at="2020-08-10T11:09:08Z">
+      <class name="Testcases.Ecommerce_tc">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:Testcases.Ecommerce_tc@364841]" name="killAllNodes" is-config="true" duration-ms="1007" started-at="2020-08-10T11:07:16Z" finished-at="2020-08-10T11:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="testNamefield(java.lang.String)[pri:0, instance:Testcases.Ecommerce_tc@364841]" name="testNamefield" duration-ms="29647" started-at="2020-08-10T11:07:17Z" data-provider="inputdata" finished-at="2020-08-10T11:07:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anusha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNamefield -->
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:Testcases.Ecommerce_tc@364841]" name="killAllNodes" is-config="true" duration-ms="1005" started-at="2020-08-10T11:07:47Z" finished-at="2020-08-10T11:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="testNamefield(java.lang.String)[pri:0, instance:Testcases.Ecommerce_tc@364841]" name="testNamefield" duration-ms="29367" started-at="2020-08-10T11:07:48Z" data-provider="inputdata" finished-at="2020-08-10T11:08:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@anusha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNamefield -->
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:Testcases.Ecommerce_tc@364841]" name="killAllNodes" is-config="true" duration-ms="1006" started-at="2020-08-10T11:08:17Z" finished-at="2020-08-10T11:08:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="testproductValidation()[pri:0, instance:Testcases.Ecommerce_tc@364841]" name="testproductValidation" duration-ms="49617" started-at="2020-08-10T11:08:18Z" finished-at="2020-08-10T11:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testproductValidation -->
+      </class> <!-- Testcases.Ecommerce_tc -->
+      <class name="Testcases.ApiDemos_ViewsPage">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:Testcases.ApiDemos_ViewsPage@185cb26]" name="killAllNodes" is-config="true" duration-ms="3095" started-at="2020-08-10T11:04:47Z" finished-at="2020-08-10T11:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="testDragandDrop_function()[pri:0, instance:Testcases.ApiDemos_ViewsPage@185cb26]" name="testDragandDrop_function" duration-ms="65541" started-at="2020-08-10T11:04:50Z" finished-at="2020-08-10T11:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragandDrop_function -->
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:Testcases.ApiDemos_ViewsPage@185cb26]" name="killAllNodes" is-config="true" duration-ms="3003" started-at="2020-08-10T11:05:56Z" finished-at="2020-08-10T11:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="testSwipping_actions()[pri:0, instance:Testcases.ApiDemos_ViewsPage@185cb26]" name="testSwipping_actions" duration-ms="39248" started-at="2020-08-10T11:05:59Z" finished-at="2020-08-10T11:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwipping_actions -->
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:Testcases.ApiDemos_ViewsPage@185cb26]" name="killAllNodes" is-config="true" duration-ms="3009" started-at="2020-08-10T11:06:38Z" finished-at="2020-08-10T11:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="testlongPress_function()[pri:0, instance:Testcases.ApiDemos_ViewsPage@185cb26]" name="testlongPress_function" duration-ms="35180" started-at="2020-08-10T11:06:41Z" finished-at="2020-08-10T11:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlongPress_function -->
+      </class> <!-- Testcases.ApiDemos_ViewsPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Failed suite [Default suite -->
+</testng-results>

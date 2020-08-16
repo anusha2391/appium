@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite">
+<listeners>
+<listener class-name="resources.Listeners"></listener>
+</listeners>
+  <test name="Test" >
+    <classes>
+    <class name="Testcases.ApiDemos_ViewsPage">
+        
+      </class> <!--   Testcases.ApiDemos_ViewsPage -->
+  <class name="Testcases.Ecommerce_tc">
+         
+     </class>   <!--   Testcases.Ecommerce_tc -->
+     
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
